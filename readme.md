@@ -1,6 +1,6 @@
 # Meta-causal
 
-The code for **Meta-causal Learning for Single Domain Generalization[CVPR2023]**. Our code is based on the method of PDEN(https://github.com/lileicv/PDEN/).
+The code for **Meta-causal Learning for Single Domain Generalization [CVPR2023]**. Our code is based on the method of PDEN(https://github.com/lileicv/PDEN/).
 
 ### Dataset
 
