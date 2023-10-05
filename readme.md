@@ -11,7 +11,7 @@ The code for **Meta-causal Learning for Single Domain Generalization[CVPR2023]**
 
 Please refer to `env.yaml`
 
-# Train and Test
+### Train and Test
 - For digit, run the command `bash run_my_joint_test.sh 0` under the path `./run_digits/` .
 - For PACS, when using art_painting as the source domain, run the command `bash run_my_joint_v13_test.sh 0` under the path `./run_PACS/` .
 
