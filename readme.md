@@ -15,7 +15,7 @@ Please refer to `env.yaml`
 - For digit, run the command `bash run_my_joint_test.sh 0` under the path `./run_digits/` .
 - For PACS, when using art_painting as the source domain, run the command `bash run_my_joint_v13_test.sh 0` under the path `./run_PACS/` .
 
-# If this code is helpful, please cite our paper
+### If this code is helpful, please cite our paper
 
 ```
 @InProceedings{Chen_2023_CVPR,
