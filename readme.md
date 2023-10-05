@@ -14,3 +14,16 @@ Please refer to `env.yaml`
 # Train and Test
 - For digit, run the command `bash run_my_joint_test.sh 0` under the path `./run_digits/` .
 - For PACS, when using art_painting as the source domain, run the command `bash run_my_joint_v13_test.sh 0` under the path `./run_PACS/` .
+
+# If this code is helpful, please cite our paper
+
+```
+@InProceedings{Chen_2023_CVPR,
+    author    = {Chen, Jin and Gao, Zhi and Wu, Xinxiao and Luo, Jiebo},
+    title     = {Meta-Causal Learning for Single Domain Generalization},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {7683-7692}
+}
+```
